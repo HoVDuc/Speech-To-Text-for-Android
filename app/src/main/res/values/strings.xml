@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Speech To Text</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">Select Language</string>
+    <string name="third_fragment_label">Speech</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="select_language">Bắt đầu nói</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="select_language_view">Hãy chọn ngôn ngữ</string>
+    <string name="title_app">Speech To Text</string>
+    <string name="vietnamese">Việt Nam</string>
+    <string name="english">English</string>
+    <string name="content_box">Nhấn vào nút micro và bắt đầu đọc</string>
+
+    <string name="mic">Mic</string>
+    <string name="test">Output will appear here</string>
+    <string name="filename">fileName</string>
+</resources>
